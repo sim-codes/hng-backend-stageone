@@ -1,0 +1,6 @@
+@api_endpoint = http://127.0.0.1:8000/api/
+
+
+GET {{api_endpoint}}hello/?visitor_name="Mark"
+Accept: application/json
+###
